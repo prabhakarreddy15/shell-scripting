@@ -4,7 +4,7 @@ A=10
 
 echo A = $A
 
-DATR = "02-09-2021"
+DATE = "02-09-2021"
 echo welcome, today date is $DATE
 
 ## comand subs
