@@ -18,3 +18,5 @@ echo "NO_OF_USERS=$NO_OF_USERS"
 DATE=$(date +%F)
 echo "welcome, today date is $DATE"
 
+#updated latest mistakes
+
