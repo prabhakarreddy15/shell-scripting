@@ -5,4 +5,4 @@
 
 ## working to gether is importent to every one in project it makes you to get perfect in delivering confident with project.
 
-echo -e "hello world /n/t/t improve your skils"
+echo -e "hello world  improve your skils/n/t"
